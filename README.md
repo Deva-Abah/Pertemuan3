@@ -33,6 +33,7 @@ Kelas : RA
 
 ## Screenshot
 
+<img width="1386" height="959" alt="Screenshot 2026-09-30 203835" src="https://github.com/user-attachments/assets/5b7a4bc5-9020-4076-8f37-41f5192f2557" />
 
 
 ## Cara Menjalankan Aplikasi & Build (Clean Build)
